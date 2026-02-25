@@ -1,6 +1,5 @@
 % ============================================
 % SIMULACIÓN Y ANÁLISIS DE SEÑALES CON FOURIER
-% Autor: Elssye Elizabeth Canizales Martinez
 % ============================================
 
 clc;
@@ -118,4 +117,5 @@ plot(frecuencia, abs(fft_combinada));
 title('Espectro de señal combinada (Propiedad de linealidad)');
 xlabel('Frecuencia (Hz)');
 ylabel('Magnitud');
+
 grid on;
