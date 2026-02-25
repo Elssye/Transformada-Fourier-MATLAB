@@ -1,6 +1,10 @@
-% ============================================
-% SIMULACIÓN Y ANÁLISIS DE SEÑALES CON FOURIER
-% ============================================
+% ====================================================
+% Simulación y análisis de señales con Transformada de Fourier
+% Autor: Elssye Elizabeth Canizales Martinez
+% Fecha: 2026
+% Descripción:
+% Este programa genera señales y calcula su Transformada de Fourier
+% ====================================================
 
 clc;
 clear;
@@ -119,3 +123,4 @@ xlabel('Frecuencia (Hz)');
 ylabel('Magnitud');
 
 grid on;
+
